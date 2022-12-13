@@ -1,0 +1,24 @@
+{
+	"name": "doveki",
+	"version": "1.0.0",
+	"description": "A place to meet for games",
+	"source": "src/index.html",
+	"scripts": {
+		"dev": "parcel",
+		"build": "parcel build",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/photocurio/doveki.git"
+	},
+	"author": "Peter Mumford",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/photocurio/doveki/issues"
+	},
+	"homepage": "https://github.com/photocurio/doveki#readme",
+	"dependencies": {
+		"parcel": "^2.8.1"
+	}
+}
