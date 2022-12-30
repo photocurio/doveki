@@ -19,6 +19,11 @@
 	},
 	"homepage": "https://github.com/photocurio/doveki#readme",
 	"dependencies": {
-		"parcel": "^2.8.1"
+		"babel-preset-solid": "^1.6.3",
+		"parcel": "^2.8.1",
+		"solid-js": "^1.6.5"
+	},
+	"devDependencies": {
+		"@parcel/transformer-sass": "^2.8.1"
 	}
 }
